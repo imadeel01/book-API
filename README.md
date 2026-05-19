@@ -12,7 +12,7 @@ Download from 👉 https://nodejs.org
 
 ### 2. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-api.git
+git clone https://github.com/imadeel01/book-api.git
 cd book-api
 ```
 
